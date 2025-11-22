@@ -40,7 +40,8 @@ Output waveform:
 <img width="763" height="729" alt="image" src="https://github.com/user-attachments/assets/25289a87-6b52-46fd-9a5a-f10db68df32e" />
 
 Tabulation
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdc419c5-10d0-421b-935c-1cf42d869dbb" />
+<img width="772" height="1213" alt="image" src="https://github.com/user-attachments/assets/b772cb00-07b5-4b44-9cc3-98e7768708e8" />
+
 
 
 Result:
